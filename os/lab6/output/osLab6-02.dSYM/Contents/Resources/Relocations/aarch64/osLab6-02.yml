@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/irinbear/Desktop/osLab/lab6/output/osLab6-02'
+relocations:     []
+...
