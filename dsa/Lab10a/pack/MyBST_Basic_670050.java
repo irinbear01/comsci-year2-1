@@ -100,7 +100,7 @@ public class MyBST_Basic_670050 {
         if(d < node.data) {
             return searchRecurse(d, node.left);
         } else {
-            return searchRecurse(d, node.left);
+            return searchRecurse(d, node.right);
         }
     }
 
