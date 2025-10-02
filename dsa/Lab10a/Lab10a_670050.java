@@ -1,4 +1,6 @@
-package Lab10a.pack;
+package Lab10a;
+
+import Lab10a.pack.MyBST_Basic_670050;
 
 public class Lab10a_670050 {
     public static void main(String[] args) {

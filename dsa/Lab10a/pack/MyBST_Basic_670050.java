@@ -5,7 +5,7 @@ import java.util.Queue;
 
 
 public class MyBST_Basic_670050 {
-    private BNode root;
+    protected BNode root;
     public MyBST_Basic_670050() {  root = null; }
     public MyBST_Basic_670050(Integer[] input) {
         if (input.length == 0)
